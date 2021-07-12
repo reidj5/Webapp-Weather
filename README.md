@@ -2,7 +2,7 @@
 Weather app created in Vue
 
 **How To Use**
-This webapp uses the API from https://openweathermap.org/
+<br>This webapp uses the API from [OpenWeatherMap](https://openweathermap.org/)
 1. Create an account and get API key from OpenWeatherMap
 2. Navigate to .env_sample
 3. Rename to .env
